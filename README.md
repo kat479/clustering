@@ -1,7 +1,5 @@
 # Clustering
 
-###Learn clustering 
-
 This is the notes from 'Cluster Analysis in Data Mining'
 
 ###Calculation of dissimlarity Matrix
