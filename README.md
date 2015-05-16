@@ -8,11 +8,13 @@ One can calculate the dissimilarity matrix using [daisy](https://stat.ethz.ch/R-
 from the `cluster` package in R
 
 ###DBSCAN - A Density based Clustering Algorithm 
-(excerpts from a [paper](http://www.academia.edu/8142139/Density_Based_Clustering_with_DBSCAN_and_OPTICS_-_Literature_Review)
+(excerpts from a [paper](http://www.academia.edu/8142139/Density_Based_Clustering_with_DBSCAN_and_OPTICS_-_Literature_Review))
 
 Clustering with density-based algorithms identifies regions in which objects (also referred to as points) are close to one another. This closeness is understood in terms of proximity (dissimilarity) measure best suited for a given set of attributes. In that respect, the variations of density in a data set are being estimated based on the number of points in a neighbourhood of every single object belonging to that data set.
 
 **Definition:** ɛ-neighboorhood
+
+Let p and q be two arbitrary points within a dataset. Let ɛ be an arbitrary radius, and Nɛ(p) be the ɛ-neighbourhood of a point p. A point q belongs to the _ɛ - neighbourhood_ of a point p if the distance between these two is not greater than ɛ.
 
 
 
