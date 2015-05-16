@@ -29,3 +29,5 @@ If a point was assessed on MinPts measure exclusively, any border point would be
 A point q is _directly density-reachable_ from a point p if q belongs to the ɛ-neighboorhood of p and p is a core point. As illustrated in Figure1, the border point q (3 points in its ɛ-neighboorhood) is directly density-reachable from a core point p (4 points in its ɛ-neighboorhood). This relation would be symmetric, if both were core points.
 
 ![Figure 1](https://html2-f.scribdassets.com/8xst4md13440hztk/images/3-36c5d92acc.png)
+
+![Figure 2](http://lh5.ggpht.com/-ejlneHmhNZA/VSTQHRZTwqI/AAAAAAAAG1s/fkLp8Y5xnjY/s1600-h/image%25255B15%25255D.png)
