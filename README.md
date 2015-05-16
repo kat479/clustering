@@ -30,4 +30,4 @@ A point q is _directly density-reachable_ from a point p if q belongs to the ɛ-
 
 ![Figure 1](https://html2-f.scribdassets.com/8xst4md13440hztk/images/3-36c5d92acc.png)
 
-![Figure 2](http://lh5.ggpht.com/-ejlneHmhNZA/VSTQHRZTwqI/AAAAAAAAG1s/fkLp8Y5xnjY/s1600-h/image%25255B15%25255D.png)
+![Figure 2](http://lh5.ggpht.com/-ejlneHmhNZA/VSTQHRZTwqI/AAAAAAAAG1s/fkLp8Y5xnjY/s1600-h/image%25255B15%25255D.png =100x20)
